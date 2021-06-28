@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Emma A. Main",
+    "jobTitle": "Graphics Designer",
+    "phone": "000 123-456",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "employeeCode": ""
+  },
+  {
+    "id": "2",
+    "name": "Paul L. Goyette",
+    "jobTitle": "Software engineer",
+    "phone": "000 456-123",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar6.png",
+    "employeeCode": ""
+  },
+  {
+    "id": "3",
+    "name": "Jonathan Smith",
+    "jobTitle": "java",
+    "phone": "456-123 000",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar5.png",
+    "employeeCode": ""
+  }
+]
